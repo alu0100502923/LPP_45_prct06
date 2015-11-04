@@ -1,4 +1,9 @@
 require 'spec_helper'
+require 'pract6'
+
+describe Pract6 do
+   it 'requires additional testing'
+ end
 
 describe Pract6 do
   it 'has a version number' do
